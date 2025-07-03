@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: jbqv8u2xx-dotnet-basic-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/jbqv8u2xx-dotnet-basic-gitops
